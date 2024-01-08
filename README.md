@@ -7,3 +7,6 @@
 
 # https://github.com/rkeplin/bible-go-api
 # https://rapidapi.com/ajith/api/holy-bible/
+
+# https://pro.europeana.eu/page/search
+# https://github.com/europeana/
